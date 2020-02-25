@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "random": "cpp",
-        "ostream": "cpp",
-        "memory": "cpp",
-        "regex": "cpp",
-        "utility": "cpp"
-    }
-}
